@@ -1,1 +1,7 @@
 bonjour tous le monde
+<<<<<<< HEAD
+=======
+test de fonctionnalote du branche
+##gggggggggggg
+####hhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> origin/br1
